@@ -29,6 +29,14 @@ to save the file. Confirm saving the file. That is it.
 
 Enjoy :)
 
+## Notes
+
+Since the script will convert all  images  to  a  PDF,  you  should  expect  the
+resulting PDF to be quite large in size.  For example, even if the original  PDF
+has around 2MB,  the  PDF  generated  by  this  script  could  have  ~100MB  (no
+kidding).  Of course, you can try compress the PDF later on, but be  aware  that
+the generated PDF may be large.
+
 ## License
 
 Do whatever you want with it.
